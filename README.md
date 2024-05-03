@@ -99,7 +99,7 @@
 
 <!--🌯GITHUBWRAPPED / 🌐WEBSITE: https://github.com/neat-run/wrapped -->
 <!--<p align="center"> -->
-<!--<a href="https://trinib.wrapped.run"><b>My GitHub Wrapped</b></a> -->
+<!--<a href="https://arjunbhandari10.wrapped.run"><b>My GitHub Wrapped</b></a> -->
 
 <!--🌯GITHUBTERMINALSTATS💻 / 🌐WEBSITE: https://github.com/ironmaniiith/Github-profile-name-writer -->
 <p align="center">
