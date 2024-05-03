@@ -26,7 +26,7 @@
 
 <!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/arjunbbhandari10/images/banner.svg"  width="600">
+<img src="https://raw.githubusercontent.com/trinib/trinib/images/banner.svg"  width="600">
 
 
 <!--📏LINE-->
