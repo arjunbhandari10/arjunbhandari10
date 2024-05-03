@@ -110,27 +110,6 @@
 <p align="center">
 <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinib.vercel.app/api/top-langs/?username=trinib&theme=merko&layout=compact&border_color=599200&langs_count=6">
 
-<!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats-trinib.vercel.app/api/pin/?username=trinib&repo=AdGuard-WireGuard-Unbound-DNScrypt&theme=merko&border_color=599200">
-
-<!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=trinib&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
- </div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=trinib&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
- </div>
-
-
-<!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges && https://github.com/idealclover/GitHub-Star-Counter -->
-<p align="center">
-  <a href="https://github.com/trinib?tab=stars&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/trinib"/></a>
-<a href="https://github.com/trinib?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/trinib?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
-
-
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
