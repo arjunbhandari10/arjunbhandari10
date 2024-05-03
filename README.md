@@ -95,9 +95,7 @@
 <p align="center">
 <img src="https://i.imgur.com/YCw47Dm.gif">
 
-<!--🖼️OCTOCAT-->
-<p align="center">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
+
 
 <!--🌯GITHUBWRAPPED / 🌐WEBSITE: https://github.com/neat-run/wrapped -->
 <!--<p align="center"> -->
