@@ -26,11 +26,11 @@
 
 <!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/banner.svg"  width="600">
+<img src="https://raw.githubusercontent.com/trinib/trinib/arjunbbhandari10/images/banner.svg"  width="600">
 
 <!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="400" height="400">
+<img src="https://raw.githubusercontent.com/trinib/arjunbhandari10/main/images/terminal.gif" width="400" height="400">
 
 <!--📏LINE-->
 <p align="center">
